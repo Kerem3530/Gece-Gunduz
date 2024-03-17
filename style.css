@@ -1,0 +1,84 @@
+body{
+    background: skyblue;
+}
+#puanlar{
+    text-align: center;
+    position: relative;
+    width: 240px;
+    height: 45px;
+    background-color: white;
+    border-radius: 142.5px;
+    left: 535px;
+}
+
+#iyi-hava{
+    cursor: pointer;
+    position: relative;
+    float: right;
+    top: 30px;
+    right: 450px;
+    font-size: 200%;
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+#kotu-hava{
+    cursor: pointer;
+    position: relative;
+    left: 450px;
+    top: 30px;
+    font-size: 200%;
+    background-color: darkslategray;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#cisim{
+    top: 100px;
+    left: 620px;
+    position: relative;
+}
+
+#gok-cismi{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    background: yellow;
+    top: 120px;
+    left: 570px;
+    border-radius: 50%;
+    border: solid 3px orange;
+}
+
+#cim{
+    position: relative;
+    width: 1313px;
+    height: 50px;
+    background-color: limegreen;
+    top: 535px;
+    left: -10px;
+}
+
+#bulut{
+    position: relative;
+    width: 600px;
+    height: 50px;
+    top: -250px;
+    left: 350px;
+    background-color: rgb(163, 230, 215);
+    border-radius: 10px;
+}
+
+#bulut2{
+    position: relative;
+    width: 750px;
+    height: 50px;
+    left: 275px;
+    background-color: rgb(163, 230, 215);
+    border-radius: 20px;
+    top: -250px;
+}
+
